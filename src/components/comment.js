@@ -16,6 +16,7 @@ class Comment extends React.Component{
                         <li><a href="#">Like</a></li>
                         <li><a href="#">Reply</a></li>
                         <li><small>{this.props.timespan}</small></li>
+                        <li><button onClick={this.props.onClick}>remove</button></li>
                     </ul>
                 </div>
             </div>
