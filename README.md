@@ -9,7 +9,7 @@
 * OS Linux: You'll need Node.js, NPM and NVM: [https://medium.com/collabcode/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os-729fb4c92f2d](Node.js for Linux)
 
 * Get the project:
-``git clone https://github.com/angelinopires/webpack-react-workflow.git``
+``git clone https://github.com/MarcusMingoransi/sistema-comentarios-react``
 
 * Move to the folder and then install all dependencies:
 ``cd webpack-react-workflow; npm install ``
